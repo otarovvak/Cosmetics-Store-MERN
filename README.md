@@ -60,16 +60,12 @@ JWT_SECRET=<your_jwt_secret_key>
 Run the project
 Start the back-end server:
 
-bash
-Копировать
-Редактировать
+
 cd server
 npm start
 Start the front-end client:
 
-bash
-Копировать
-Редактировать
+
 cd client
 npm start
 The application will now be running at http://localhost:3000.
